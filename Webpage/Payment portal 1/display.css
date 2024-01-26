@@ -1,0 +1,37 @@
+body{
+    background-image: url('backgroundNew.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.block2{
+    position: absolute;
+    border: 1px solid red;
+    top: 340px;
+    right: 15px;  
+
+}
+.table
+{
+    max-width:2000px;
+    width:100%;
+    background:transparent;
+    margin:18vh auto 0 auto;
+    padding:25px;
+    border:2px solid rgba(0, 0, 0, 0.5);
+    border-radius:20px;
+    box-sizing:border-box;
+    align-items: center;
+    backdrop-filter: blur(15px);
+
+}
+.text-light{
+    background-color: rgb(52, 150, 129);
+    color:azure;
+    padding:25px 35px;
+    font-style: italic;
+    text-decoration: none;
+    margin:4px 2px;
+    
+
+}
